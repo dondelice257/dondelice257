@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working with **Angular**
 
-- 👯 I’m looking to collaborate on **any frontend projects with angular and vue js**
+- 👯 I’m looking to collaborate on **any web projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dondelice257](https://github.com/dondelice257)
 
