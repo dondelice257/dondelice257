@@ -1,5 +1,5 @@
 
-## Hello there ! I am Don Delice Dushime, a passionate software developer
+## Hello there ! I am Don Delice Dushime, a software developer
 
 <a href="https://app.daily.dev/dondelice257"><img src="https://api.daily.dev/devcards/3006288b891944a6a47d1650d0c0d36a.png?r=xno" width="400" alt="Don Delice Dushime's Dev Card"/></a>
 ## 🌐 Socials:
